@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Your Brand Colors -->
+    <color name="jet">#24221B</color>
+    <color name="silver">#E4DFD8</color>
+    <color name="mustard">#F2D04E</color>
+
+    <!-- App Colors -->
+    <color name="primary">#F2D04E</color>
+    <color name="background">#E4DFD8</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#FFF9E6</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#24221B</color>
+    <color name="text_secondary">#6B6B6B</color>
+
+    <!-- Navigation -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- ADD THESE MISSING COLORS -->
+    <color name="workhive_white">#FFFFFF</color>
+    <color name="workhive_light_gray">#E0E0E0</color>
+    <color name="icon_tint">#6B6B6B</color>
+    <color name="outline">#E0E0E0</color>
+</resources>

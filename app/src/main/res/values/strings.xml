@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">WorkHive</string>
+    <string name="welcome_subtitle">Your side hustle marketplace</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="email_hint">Email or Phone</string>
+    <string name="password_hint">Password</string>
+
+    <!-- Add these to your existing strings.xml -->
+    <string name="notifications">Notifications</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="search_gigs">Search for gigs...</string>
+
+    <!-- Add these to your strings.xml -->
+    <string name="back">Back</string>
+    <string name="create_account">Create Account</string>
+    <string name="join_workhive_community">Join the WorkHive community</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+
+    <!-- Add these to your strings.xml -->
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="agree_terms">I agree to the Terms and Conditions</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="login">Login</string>
+
+    <string name="already_have_account_sign_in">Already have an account? Sign In</string>
+
+
+
+</resources>
