@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#E4DFD8</color>
+    <color name="icon_tint">#6B6B6B</color>
+    <color name="jet">#24221B</color>
+    <color name="mustard">#F2D04E</color>
+    <color name="outline">#E0E0E0</color>
+    <color name="primary">#F2D04E</color>
+    <color name="silver">#E4DFD8</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#FFF9E6</color>
+    <color name="text_primary">#24221B</color>
+    <color name="text_secondary">#6B6B6B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="workhive_light_gray">#E0E0E0</color>
+    <color name="workhive_white">#FFFFFF</color>
+    <string name="agree_terms">I agree to the Terms and Conditions</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="already_have_account_sign_in">Already have an account? Sign In</string>
+    <string name="app_name">WorkHive</string>
+    <string name="back">Back</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Email or Phone</string>
+    <string name="filter">Filter</string>
+    <string name="full_name">Full Name</string>
+    <string name="join_workhive_community">Join the WorkHive community</string>
+    <string name="login">Login</string>
+    <string name="notifications">Notifications</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="register">Register</string>
+    <string name="search">Search</string>
+    <string name="search_gigs">Search for gigs...</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="welcome_subtitle">Your side hustle marketplace</string>
+    <style name="Base.Theme.WorkHive" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.WorkHive" parent="Base.Theme.WorkHive"/>
+</resources>

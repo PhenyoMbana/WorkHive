@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.example.workhive.app-debug-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.workhive.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/drawable_shape_unread_dot.xml.flat",
+        "source": "com.example.workhive.app-main-36:/drawable/shape_unread_dot.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/drawable_ic_share.xml.flat",
+        "source": "com.example.workhive.app-main-36:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.workhive.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.workhive.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/drawable_ic_search.xml.flat",
+        "source": "com.example.workhive.app-main-36:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_fragment_post_gig.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/fragment_post_gig.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/drawable_ic_bookmark_filled.xml.flat",
+        "source": "com.example.workhive.app-main-36:/drawable/ic_bookmark_filled.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_activity_messages.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/activity_messages.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.workhive.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/xml_backup_rules.xml.flat",
+        "source": "com.example.workhive.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_activity_register.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.workhive.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_activity_login.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.workhive.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_activity_post_gig.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/activity_post_gig.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/color_bottom_nav_colors.xml.flat",
+        "source": "com.example.workhive.app-main-36:/color/bottom_nav_colors.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_activity_chat.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.workhive.app-main-36:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_fragment_discover.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/fragment_discover.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/drawable_ic_star.xml.flat",
+        "source": "com.example.workhive.app-main-36:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.workhive.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.workhive.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.workhive.app-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/drawable_ic_requirements.xml.flat",
+        "source": "com.example.workhive.app-main-36:/drawable/ic_requirements.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_item_conversation.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/item_conversation.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/drawable_ic_send.xml.flat",
+        "source": "com.example.workhive.app-main-36:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.workhive.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.workhive.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.workhive.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/drawable_ic_add.xml.flat",
+        "source": "com.example.workhive.app-main-36:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_fragment_profile.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.workhive.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/drawable_ic_title.xml.flat",
+        "source": "com.example.workhive.app-main-36:/drawable/ic_title.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_item_gig.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/item_gig.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_activity_gig_details.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/activity_gig_details.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_fragment_home.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_activity_home.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.workhive.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.workhive.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.workhive.app-debug-34:/layout_item_message.xml.flat",
+        "source": "com.example.workhive.app-main-36:/layout/item_message.xml"
+    }
+]
